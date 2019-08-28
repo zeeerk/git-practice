@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  Git For Conflict
+Mutual Understanding
+Hello ! I am a trainee at NBU.
+>>>>>>> 5ede9e305f03b595b91cbd0268fe2134018dc676
